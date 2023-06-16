@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 10px;
+  }
+  
+  #nao-btn {
+    position: absolute;
+  }
+  
+  #sim-btn {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
