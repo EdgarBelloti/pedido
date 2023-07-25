@@ -50,11 +50,11 @@ function updateMousePosition(event) {
 }
 
 function showSuccessMessage() {
-  alert("VOCÊ CONSEGUIU, AGORA ME DÁ UMA MAMADA");
+  alert("AAAAAAAAE ELA QUER NAMORAR CMG!!!!");
 }
 
 function redirectToYouTube() {
-  window.open("https://www.youtube.com/watch?v=dilqsYifzKI&ab_channel=Sexosemd%C3%BAvida"); // Substitua pelo URL do vídeo do YouTube que você deseja redirecionar
+  window.open("https://www.youtube.com/watch?v=9J_Nnl9kQT4&ab_channel=MeninozinhoManso"); // Substitua pelo URL do vídeo do YouTube que você deseja redirecionar
 }
 
 document.addEventListener("mousemove", updateMousePosition);
